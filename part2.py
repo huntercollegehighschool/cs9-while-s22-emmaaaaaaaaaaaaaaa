@@ -11,3 +11,8 @@ Hunter
 Hunter
 
 '''
+a = int(input("Enter a number: "))
+b = 0 
+while b < a: 
+  b = b + 1
+print("Hunter " * b)
